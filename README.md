@@ -1,4 +1,6 @@
 Submitted by 108485
 
 ## Photo
-![WAS EIN GEILES BILD DAS HAT EINE 1 VERDIENT :D] (APPDEV-108485/tollesbild.jpg)
+
+
+![WAS EIN GEILES BILD DAS HAT EINE 1 VERDIENT :D] (./tollesbild.jpg)
